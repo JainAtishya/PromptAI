@@ -60,7 +60,7 @@ yarn dev
 # or
 pnpm dev
 ```
-* This command will start the Vite development server, usually at http://localhost:5173/. Open your browser to this address to see the application.
+ This command will start the Vite development server, usually at http://localhost:5173/. Open your browser to this address to see the application.
 
 ## Contributing
 
